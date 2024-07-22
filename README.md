@@ -1,12 +1,9 @@
 # Matt-Lucero-Projects# Hello, I'm Matt
 <a href="https://www.linkedin.com/in/matthew-lucero-b607681ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a recent graduate from the University of Colorado-Colorado Springs with a profound interest in technology and solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 After my studies in college and working in the phartmaceutical sector, I decided to take some courses related to the CompTIA Network+ as well as CompTIA Security+ to broaden my knwoledge and to see if I had an interest in IT and cybersecurity. After gaining my Security+ and performing home labs & projects for applicable experience, I am now eager to transition into the field, specifically aiming to join an organization's IT service department or a role pertaining to network administration.
 
