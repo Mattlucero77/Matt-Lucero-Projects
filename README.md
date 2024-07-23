@@ -14,7 +14,7 @@ After my studies in college and working in the phartmaceutical sector, I decided
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Layer 2 / Layer 3 Device Configuration        | <a href="https://google.com">Detection Lab</a>|
+| Layer 2 & Layer 3 Device Configuration        | <a href="https://google.com">Detection Lab</a>|
 | DHCP and DNS Server Implementation            | SOC Automation Lab|
 | Routing Protocol Configuration                | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
