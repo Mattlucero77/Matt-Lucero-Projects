@@ -24,6 +24,7 @@ After my studies in college and working in the phartmaceutical sector, I decided
 
 ### Network
 <div>
+<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0078D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
