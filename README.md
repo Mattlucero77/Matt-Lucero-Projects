@@ -5,7 +5,7 @@ I am a recent graduate from the University of Colorado-Colorado Springs with a p
 
 ## Objective
 
-After my studies in college and working in the phartmaceutical sector, I decided to take some courses related to the CompTIA Network+ as well as CompTIA Security+ to broaden my knwoledge and to see if I had an interest in IT and cybersecurity. After gaining my Security+ and performing home labs & projects for applicable experience, I am now eager to transition into the field, specifically aiming to join an organization's IT service department or a role pertaining to network administration.
+After my studies in college and working in the phartmaceutical sector, I decided to take some courses related to the CompTIA Network+ as well as CompTIA Security+ to broaden my knwoledge and to see if I had an interest in IT and cybersecurity. After obtaining my Security+ and performing home labs & projects for applicable experience, I am now eager to transition into the field. I am specifically aiming to join an organization's IT service department or a role pertaining to network administration.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
