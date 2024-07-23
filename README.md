@@ -14,9 +14,9 @@ After my studies in college and working in the phartmaceutical sector, I decided
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Layer 2 / Layer 3 Device Configuration        | <a href="https://google.com">Detection Lab</a>|
+| DHCP and DNS Server Implementation            | SOC Automation Lab|
+| Routing Protocol Configuration                | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
